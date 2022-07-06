@@ -1,4 +1,4 @@
-hello word! 第一次修改
+hello wordi! 第一次修改
 hello word! 第二次修改
 hello word!
 hello word! master修改1
@@ -14,3 +14,4 @@ hello word!
 hello word!
 远程仓库直接修改
 ssh修改完成
+ssh测试修改提交远程操哭
